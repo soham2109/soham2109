@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   Nice to see you..
 </p>
 <p>
-- 🔭 I’m currently a Master's student.
-- 🌱 I’m currently interested in Machine Learning, Deep Learning and Communication Systems.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: If you took all the atoms in a person and laid them out on a football field, you most certainly would be arrested :[
+- 🔭 I’m currently a Master's student.  
+- 🌱 I’m currently interested in Machine Learning, Deep Learning and Communication Systems.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: If you took all the atoms in a person and laid them out on a football field, you most certainly would be arrested :[  
 </p>
 
 ## &#x1f4c8; GitHub Stats
