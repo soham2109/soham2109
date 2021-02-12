@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 <p> 
-  Nice to see you.. [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+  Nice to see you..
 </p>
 
 ## &#x1f4c8; GitHub Stats
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=soham2109&show_icons=true&theme=gotham" alt="soham2109")
+![Soham's github stats](https://github-readme-stats.vercel.app/api?username=soham2109&theme=gotham&show_icons=true" alt="soham2109")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham2109)](https://github.com/anuraghazra/github-readme-stats)
 
