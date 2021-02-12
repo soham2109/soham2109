@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
 <p style="text-align:center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -19,10 +20,15 @@ Here are some ideas to get you started:
 </a>
 <p>
 
-### Hi there 👋
-
+### नमस्ते (Namaste) <i class="far fa-praying-hands"></i>, I am Soham Naha.
 <p> 
   Nice to see you..
+</p>
+<p>
+- 🔭 I’m currently a Master's student.
+- 🌱 I’m currently interested in Machine Learning, Deep Learning and Communication Systems.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If you took all the atoms in a person and laid them out on a football field, you most certainly would be arrested :[
 </p>
 
 ## &#x1f4c8; GitHub Stats
@@ -33,6 +39,3 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soham2109&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-⚡ Fun fact: If you took all the atoms in a person and laid them out on a football field, you most certainly would be arrested :[
-
