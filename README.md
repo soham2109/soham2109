@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 ## &#x1f4c8; GitHub Stats
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=soham2109&theme=gotham&show_icons=true" alt="soham2109")
+[![Soham's github stats](https://github-readme-stats.vercel.app/api?username=soham2109&theme=gotham&show_icons=true" alt="soham2109")]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham2109)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham2109&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
