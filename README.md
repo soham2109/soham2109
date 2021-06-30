@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 </a>
 <p>
 
-### नमस्ते (Namaste) <i class="far fa-praying-hands"></i>, I am Soham Naha.
+### नमस्ते (Namaste) <i class="far fa-praying-hands"></i>, This is Soham.
 <p> 
   Nice to see you..
 </p>
 
- - 🔭 I’m currently a Master's student.  
- - 🌱 I’m currently interested in Machine Learning, Deep Learning and Communication Systems.  
+ - 🔭 I’m currently a Master's student at IITB.  
+ - 🌱 Interested in Machine Learning, Deep Learning and Wireless Communications.  
  - 😄 Pronouns: He/Him  
- - ⚡ Fun fact: If you took all the atoms in a person and laid them out on a football field, you most certainly would be arrested :[  
 
 ## &#x1f4c8; GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=soham2109&count_private=true&theme=tokyonight&showicons=true)]()
